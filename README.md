@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking for someone who taught me.
 - 📫 How to reach me E-MAIL: aditya2006dhattwalia@gmail.com
-- 😄 Pronouns: RISHU
 - ⚡ Fun fact: Im fresher (LOL)
 
 <!---
